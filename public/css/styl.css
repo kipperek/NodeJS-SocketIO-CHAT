@@ -1,3 +1,6 @@
+body{
+	margin: 10px;
+}
 #chat {
 	border-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;
@@ -29,6 +32,7 @@
 	background: #00ccff;
 }
 .bulb {
+	margin-top: 15px;
 	font-size: 16px;
 	font-family: arial, sans-serif;
 }

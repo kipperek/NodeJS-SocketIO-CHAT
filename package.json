@@ -9,7 +9,13 @@
   "author": "Kacper Czechowicz",
   "license": "MIT",
   "dependencies": {
+    "connect": "^2.14.5",
+    "redis": "0.8.3",
     "express": "3.x",
-    "socket.io": "^0.9.16"
+    "socket.io": "^0.9.16",
+    "ejs": "*",
+    "passport": "^0.2.0",
+    "passport-local": "^1.0.0",
+    "passport.socketio": "^3.0.1"
   }
 }
